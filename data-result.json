@@ -11,6 +11,6 @@
     },
     "data": {
         "status": "healthy",
-        "temperature": 22
+        "temperature" : 22
     }
 }
