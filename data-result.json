@@ -4,7 +4,7 @@
     "timestamp": 1624445837783,
     "location": {
         "country": "japan",
-        "city": "tokyo",
+        "city":"tokyo",
         "area": "keiyō-industrial-zone",
         "factory": "daikibo-factory-meiyo",
         "section": "section-1"
