@@ -20,7 +20,7 @@ def convertFromFormat1(jsonObject):
         'timestamp': jsonObject['timestamp'],  # already in milliseconds
 
         'location': {
-            'country': locationParts[0],
+            'country':locationParts[0],
             'city': locationParts[1],
             'area': locationParts[2],
             'factory': locationParts[3],
