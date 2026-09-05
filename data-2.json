@@ -10,7 +10,7 @@
     "factory": "daikibo-factory-meiyo",
     "section": "section-1",
     "data": {
-        "status": "healthy",
+        "status":"healthy",
         "temperature": 22
     }
 }
